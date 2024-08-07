@@ -1,0 +1,10 @@
+*.sketch
+*.fig
+*.xd
+.DS_Store
+.prettierignore
+social-links-profile-main/design/
+*preview.jpg
+*README-template.md
+*README.md
+*style-guide.md
